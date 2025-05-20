@@ -63,8 +63,6 @@ You can install them via:
 pip install -r requirements.txt
 ```
 
-*(If `requirements.txt` is not yet prepared, consider adding it for clarity.)*
-
 ## Notes
 
 - Make sure the output of `vae_train.py` (typically latent representations) is saved and used in `diffusion_train.py`.
